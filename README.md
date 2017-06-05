@@ -1,2 +1,6 @@
 # TIL
-Today I learned for myself
+AhnsuNa가 오늘 새로 배운 것을 Commit 한다
+
+참조  
+[thoughtbot TIL](https://github.com/thoughtbot/til)  
+[milooy TIL](https://github.com/milooy/TIL)
